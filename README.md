@@ -55,10 +55,10 @@ The evolution of the grid follows these simple rules:
 
 # TBD
 
-[] Add full screen mode and re-draw the new grid aka new tile sizes
-[] Add back button and shortcut is ESC
-[] Add bottom menu in game features (Pause/ play buttons, step-by-step while in pause mode)
-[] Add load structures menu (structure will be added after choosing its position using arrow keys)
+- [] Add full screen mode and re-draw the new grid aka new tile sizes
+- [] Add back button and shortcut is ESC
+- [] Add bottom menu in game features (Pause/ play buttons, step-by-step while in pause mode)
+- [] Add load structures menu (structure will be added after choosing its position using arrow keys)
 
 ## Contributing
 
